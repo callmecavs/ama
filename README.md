@@ -2,9 +2,7 @@
 
 You know the deal... Ask me anything.
 
-> "Anything means _anything_."
-
-- _[Sindre Sorhus](https://github.com/sindresorhus/ama)_
+> "Anything means _anything_." - _[Sindre Sorhus](https://github.com/sindresorhus/ama)_
 
 ## Usage
 
